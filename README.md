@@ -1,18 +1,3 @@
-# Villebackend
-Mocup backend for villeplug add on
+## Project Has Moved
 
-need to install dependencies:
-
-npm install express,
-
-npm install typescript ts-node @types/node @types/express --save-dev
-
-## to run
-
-npm run dev
-
-## navigating the backend
-
-example:
-http://localhost:3000/courses/1/exercises/101
-course 1, excercise 101
+This repository is no longer maintained. The project has moved to [leotamminen/Villebackend](https://github.com/leotamminen/Villebackend).
